@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Always watching you all"];
+const statusMessages = ["Always watching you all", "Your friendly neighborhood discord bot ^W^"];
 
 
 let currentIndex = 0;
